@@ -1,0 +1,1 @@
+# No third-party dependencies. Requires Git on PATH.
